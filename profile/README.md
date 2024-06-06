@@ -6,7 +6,7 @@
 
 ## About Us
 
-Flutter needs plugins for tasks that are only possible via Kotlin and iOS. For this purpose, a number of plugins exist on pub.dev, which are often abandoned. OriginOSS is a non-profit organization with the goal to give those plugins a better health and life.
+OriginOSS is dedicated to maintaining and supporting small Flutter plugins and packages that are often abandoned. Our mission is to ensure the longevity and reliability of essential tools for the Flutter community, empowering developers to build high-quality, robust applications.
 
 ### Our Projects
 
