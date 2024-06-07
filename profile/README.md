@@ -30,7 +30,7 @@ Your support helps us continue our mission. Consider sponsoring us or making a d
 
 - **[GitHub Sponsors](https://github.com/sponsors/originoss)**
 - **[Donate via PayPal](https://www.paypal.me/stevenosse)**
-- **[Buy me a coffee](https://buymeacoffee.com/originos)**
+- **[Buy me a coffee](https://buymeacoffee.com/originoss)**
 
 ### Connect with Us
 
