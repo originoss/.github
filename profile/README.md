@@ -1,7 +1,7 @@
 # Welcome to OriginOSS!
 
 [![Open Source Foundation](https://img.shields.io/badge/Open%20Source-Foundation-blue.svg)](https://website.org)
-[![Follow on GitHub](https://img.shields.io/github/followers/your-foundation.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/originoss?tab=followers)
+[![Follow on GitHub](https://img.shields.io/github/followers/originoss.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/originoss?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/originoss?style=social)](https://twitter.com/originoss)
 
 ## About Us
